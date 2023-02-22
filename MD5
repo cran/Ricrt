@@ -1,0 +1,11 @@
+6f9fd7f22c5f570902e01143189e2d34 *DESCRIPTION
+b416441a033ef96685423c124739f113 *LICENSE
+ef7fdf26fbea08cbb7154e7f4b46024f *NAMESPACE
+3b28c15900f267fd0b5d4a756ebfcb55 *R/QuantileAnalysis.R
+e54bdfc50d8d62b856fb257412b2fe6c *R/Ricrt.R
+cd62887db884987715f9b5424b69b0d9 *R/data.R
+9d95944ccf50bd71e674c4a71cc94bfc *data/example1.rda
+d41d8cd98f00b204e9800998ecf8427e *inst/REFERENCES.bib
+2479bca29988cc8b71ee7cec9d6e5f46 *man/QuantileAnalysis.Rd
+41eb0735dec9c95c190ee6f3cc592f50 *man/Ricrt.Rd
+bf2a69cce0b86bcc2ef4aaa35c976a3a *man/example1.Rd
